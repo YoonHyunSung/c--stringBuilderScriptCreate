@@ -1,0 +1,16 @@
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\bin\Debug\net5.0\StringBuilderScript.exe
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\bin\Debug\net5.0\StringBuilderScript.deps.json
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\bin\Debug\net5.0\StringBuilderScript.runtimeconfig.json
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\bin\Debug\net5.0\StringBuilderScript.runtimeconfig.dev.json
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\bin\Debug\net5.0\StringBuilderScript.dll
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\bin\Debug\net5.0\ref\StringBuilderScript.dll
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\bin\Debug\net5.0\StringBuilderScript.pdb
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.csproj.AssemblyReference.cache
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.AssemblyInfoInputs.cache
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.AssemblyInfo.cs
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.csproj.CoreCompileInputs.cache
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.dll
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\ref\StringBuilderScript.dll
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.pdb
+C:\Users\gustj\source\repos\StringBuilderScript\StringBuilderScript\obj\Debug\net5.0\StringBuilderScript.genruntimeconfig.cache
